@@ -1,0 +1,510 @@
+{
+  "potentialstartletbook": [
+    {
+      "id": 1,
+      "book_name": "The Legend of Futian",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": {
+        "rate__avg": 5.0
+      },
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666323902/Rectangle_232_ke4tmd.png",
+      "side_upper_cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666323902/Rectangle_232_ke4tmd.png",
+      "side_middle_cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666447326/image_12_knfdht.png",
+      "side_lower_cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666447326/image_12_knfdht.png"
+    },
+    {
+      "id": 2,
+      "book_name": "God- Like Extraction",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": {
+        "rate__avg": 5.0
+      },
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666469480/image_13_1_gfutjk.png",
+      "side_upper_cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666323902/Rectangle_232_ke4tmd.png",
+      "side_middle_cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666447326/image_20_hxn0po.png",
+      "side_lower_cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666447326/image_13_amtpaj.png"
+    },
+    {
+      "id": 2,
+      "book_name": "I Was Skeleton...",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": {
+        "rate__avg": 5.0
+      },
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666323902/Rectangle_234_a83ptj.png",
+      "side_middle_cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666447326/Rectangle_145_okrvua.png",
+      "side_lower_cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666447326/image_12_knfdht.png"
+    },
+    {
+      "id": 3,
+      "book_name": "After reincarnating i became a ....",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": {
+        "rate__avg": 5.0
+      },
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666323902/Rectangle_232_ke4tmd.png",
+      "side_upper_cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666323902/Rectangle_232_ke4tmd.png",
+      "side_middle_cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666447326/image_12_knfdht.png",
+      "side_lower_cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666447326/image_20_hxn0po.png"
+    },
+    {
+      "id": 4,
+      "book_name": "After reincarnating i became a ....",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": {
+        "rate__avg": 5.0
+      },
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666323902/Rectangle_232_ke4tmd.png",
+      "side_upper_cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666323902/Rectangle_232_ke4tmd.png",
+      "side_middle_cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666447326/image_12_knfdht.png",
+      "side_lower_cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666447326/image_13_amtpaj.png"
+    },
+    {
+      "id": 5,
+      "book_name": "God- Like Extraction",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": {
+        "rate__avg": 5.0
+      },
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666323902/Rectangle_232_ke4tmd.png",
+      "side_upper_cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666323902/Rectangle_232_ke4tmd.png",
+      "side_middle_cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666323902/Rectangle_174_bqcrub.png",
+      "side_lower_cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666323902/Rectangle_237_khof5z.png"
+    }
+  ],
+  "weeklybook": [
+    {
+      "id": 1,
+      "book_name": "The Legend of Futian",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": {
+        "rate__avg": 5.0
+      },
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666323902/Rectangle_232_ke4tmd.png"
+    },
+    {
+      "id": 1,
+      "book_name": "God- Like Extraction",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": {
+        "rate__avg": 5.0
+      },
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666469480/image_13_1_gfutjk.png"
+    },
+    {
+      "id": 1,
+      "book_name": "I Was Skeleton...",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": {
+        "rate__avg": 5.0
+      },
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666323902/Rectangle_234_a83ptj.png"
+    },
+    {
+      "id": 1,
+      "book_name": "After reincarnating i became a ....",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": {
+        "rate__avg": 5.0
+      },
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666323902/Rectangle_232_ke4tmd.png"
+    },
+    {
+      "id": 1,
+      "book_name": "After reincarnating i became a ....",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": {
+        "rate__avg": 5.0
+      },
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666469480/image_13_1_gfutjk.png"
+    },
+    {
+      "id": 1,
+      "book_name": "God- Like Extraction",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": {
+        "rate__avg": 5.0
+      },
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666323902/Rectangle_232_ke4tmd.png"
+    }
+  ],
+  "landing_banner_page_section": [
+    {
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521938/Rectangle_146_gddpm5.png"
+    },
+    {
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521938/Rectangle_137_mmfqe3.png"
+    },
+    {
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521938/Rectangle_170_l2jvj5.png"
+    }
+  ],
+  "landing_banner_page_section1": [
+    {
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521938/Rectangle_170_l2jvj5.png"
+    },
+    {
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521938/Rectangle_84_uutsyo.png"
+    },
+    {
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521938/Rectangle_128_w67lfe.png"
+    },
+    {
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521937/Rectangle_146_gddpm5.png"
+    }
+  ],
+  "topbooklist": [
+    {
+      "book_name": "Supreme Magus",
+      "rating": 4.8,
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521938/Rectangle_170_l2jvj5.png"
+    },
+    {
+      "book_name": "My Vampire System",
+      "rating": 3.9,
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521938/Rectangle_84_uutsyo.png"
+    },
+    {
+      "book_name": "Shadow Slave",
+      "rating": 5.0,
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521938/Rectangle_128_w67lfe.png"
+    },
+    {
+      "book_name": "White Online",
+      "rating": 4.0,
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521937/Rectangle_146_gddpm5.png"
+    },
+    {
+      "book_name": "Shadow Slave",
+      "rating": 5.0,
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521938/Rectangle_128_w67lfe.png"
+    }
+  ],
+  "explorebook": [
+    {
+      "id": "my_vampire_system-11",
+      "book_name": "My Vampire System",
+      "paragraph": "The human Race is at war with the Vicious Dalki and when they needed...",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": 4.0,
+      "hashtag": ["#Action", "System"],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521938/Rectangle_170_l2jvj5.png"
+    },
+    {
+      "id": "super_gene-12",
+      "book_name": "Super Gene",
+      "paragraph": "In the magnificent interstellar era,mankind has finally developed...",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": 4.0,
+      "hashtag": ["#ROMANCE", "#ADDVENTURE"],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521938/Rectangle_84_uutsyo.png"
+    },
+    {
+      "id": "trail_mariage_husband_need_t-14",
+      "book_name": "Trail Mariage Husband :Need t...",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": 4.0,
+      "paragraph": "The night before their wedding, herfiancé ran off with his mistress. Out o...",
+      "hashtag": ["#ROMANCE", "#ADDVENTURE"],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521937/Rectangle_146_gddpm5.png"
+    },
+    {
+      "id": "trail_mariage_husband_need_t-15",
+      "book_name": "Trail Mariage Husband :Need t...",
+      "paragraph": "The night before their wedding, herfiancé ran off with his mistress. Out o...",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": 4.0,
+      "hashtag": ["#ROMANCE", "#ADDVENTURE"],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521937/Rectangle_146_gddpm5.png"
+    },
+    {
+      "id": "trail_mariage_husband_need_t-16",
+      "book_name": "Trail Mariage Husband :Need t...",
+      "paragraph": "The night before their wedding, herfiancé ran off with his mistress. Out o...",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": 4.0,
+      "hashtag": ["#ROMANCE", "#ADDVENTURE"],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521938/Rectangle_137_mmfqe3.png"
+    },
+    {
+      "id": "trail_mariage_husband_need_t-17",
+      "book_name": "Trail Mariage Husband :Need t...",
+      "paragraph": "The night before their wedding, herfiancé ran off with his mistress. Out o...",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": 4.0,
+      "hashtag": ["#ROMANCE", "#ADDVENTURE"],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521937/Rectangle_146_gddpm5.png"
+    },
+    {
+      "id": "trail_mariage_husband_need_t-18",
+      "book_name": "Trail Mariage Husband :Need t...",
+      "paragraph": "The night before their wedding, herfiancé ran off with his mistress. Out o...",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": 4.0,
+      "hashtag": ["#ROMANCE", "#ADDVENTURE"],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521938/Rectangle_128_w67lfe.png"
+    },
+    {
+      "id": "trail_mariage_husband_need_t-19",
+      "book_name": "Trail Mariage Husband :Need t...",
+      "paragraph": "The night before their wedding, herfiancé ran off with his mistress. Out o...",
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "rating": 4.0,
+      "hashtag": ["#ROMANCE", "#ADDVENTURE"],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666323902/Rectangle_174_bqcrub.png"
+    }
+  ],
+  "rankingbook": [
+    {
+      "id": "1",
+      "book_name": "My Vampire System",
+      "paragraph": "Growing up in poverty, Sunny never expected anything good from life. However, even he did not anticipate being chosen by the Nightmare Spell and.",
+      "hashtag": ["#Action", "#System"],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521938/Rectangle_170_l2jvj5.png",
+      "rating": 3.9,
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "author": "Alekzi"
+    },
+    {
+      "id": "2",
+      "book_name": "Super Gene",
+      "paragraph": "In the magnificent interstellar era,mankind has finally developed...",
+      "hashtag": ["#ROMANCE", "#ADDVENTURE"],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521938/Rectangle_84_uutsyo.png",
+      "rating": 3.9,
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "author": "Alekzi"
+    },
+    {
+      "id": "3",
+      "book_name": "Trail Mariage Husband :Need t...",
+      "paragraph": "The night before their wedding, herfiancé ran off with his mistress. Out o...",
+
+      "hashtag": ["#ROMANCE", "#ADDVENTURE"],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521937/Rectangle_146_gddpm5.png",
+      "rating": 3.9,
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "author": "Alekzi"
+    },
+    {
+      "id": "4",
+      "book_name": "Trail Mariage Husband :Need t...",
+      "paragraph": "Growing up in poverty, Sunny never expected anything good from life. However, even he did not anticipate being chosen by the Nightmare Spell and.",
+      "hashtag": ["#ROMANCE", "#ADDVENTURE"],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521937/Rectangle_146_gddpm5.png",
+      "rating": 3.9,
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "author": "Alekzi"
+    },
+    {
+      "id": "5",
+      "book_name": "Trail Mariage Husband :Need t...",
+      "paragraph": "Growing up in poverty, Sunny never expected anything good from life. However, even he did not anticipate being chosen by the Nightmare Spell and.",
+      "hashtag": ["#ROMANCE", "#ADDVENTURE"],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521938/Rectangle_137_mmfqe3.png",
+      "rating": 3.9,
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "author": "Alekzi"
+    },
+    {
+      "id": "6",
+      "book_name": "Trail Mariage Husband :Need t...",
+      "paragraph": "Growing up in poverty, Sunny never expected anything good from life. However, even he did not anticipate being chosen by the Nightmare Spell and.",
+      "hashtag": ["#ROMANCE", "#ADDVENTURE"],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521937/Rectangle_146_gddpm5.png",
+      "rating": 3.9,
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "author": "Alekzi"
+    },
+    {
+      "id": "7",
+      "book_name": "Trail Mariage Husband :Need t...",
+      "paragraph": "Growing up in poverty, Sunny never expected anything good from life. However, even he did not anticipate being chosen by the Nightmare Spell and.",
+      "hashtag": ["#ROMANCE", "#ADDVENTURE"],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666521938/Rectangle_128_w67lfe.png",
+      "rating": 3.9,
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "author": "Alekzi"
+    },
+    {
+      "id": "8",
+      "book_name": "Trail Mariage Husband :Need t...",
+      "paragraph": "Growing up in poverty, Sunny never expected anything good from life. However, even he did not anticipate being chosen by the Nightmare Spell and.",
+      "hashtag": ["#ROMANCE", "#ADDVENTURE"],
+      "cover_img": "https://res.cloudinary.com/dk6twrko6/image/upload/v1666323902/Rectangle_174_bqcrub.png",
+      "rating": 3.9,
+      "category": [
+        {
+          "id": 1,
+          "name": "Fantasy"
+        }
+      ],
+      "author": "Alekzi"
+    }
+  ]
+}
